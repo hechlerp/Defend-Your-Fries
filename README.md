@@ -2,7 +2,7 @@
 
 [Defend Your Fries][ghpages]
 
-[ghpages]: http://hechlerp.github.io
+[ghpages]: peterhechler.com/defend-your-fries
 
 ###On Entry
 
@@ -25,9 +25,9 @@
              el.grabbed === false
           ) {
             el.grabbed = true;
-            
+
   The conditional continues below, but this snippet shows the rangefinding method for grabbing a sprite. The final part of the condition is critical, as it prevents you from grabbing two sprites at once. The grabbed quality is set to false again on release. I then needed to track the position and time of start and release. This is done through the mouseup and mouseout listeners, which are removed with the release function.
-  
+
             var startPos = el.pos.slice(0);
             var timeGrabbed = Date.now();
             var release = function () {

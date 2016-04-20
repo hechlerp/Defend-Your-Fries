@@ -2,7 +2,7 @@
 
 [Defend Your Fries][ghpages]
 
-[ghpages]: peterhechler.com/defend-your-fries
+[ghpages]: http://peterhechler.com/defend-your-fries
 
 ###On Entry
 

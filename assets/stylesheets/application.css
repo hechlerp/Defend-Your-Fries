@@ -29,16 +29,12 @@ h1 {
 }
 
 .footer {
-  /*position: relative;
-  bottom: 0;*/
-  margin-top: 250px;
   padding: 20px 0;
   width: 100%;
   background: #ccc;
 }
 
 .footer > a {
-  /*float: left;*/
   text-decoration: none;
   color: #000;
   padding: 20px;
